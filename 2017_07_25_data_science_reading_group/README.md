@@ -1,0 +1,1 @@
+Presentation of the paper [Uncertainty in Online Experiments with Dependent Data: An Evaluation of Bootstrap Methods](https://arxiv.org/abs/1304.7406) by Eytan Bakshy and Dean Eckles. Given at the Data Science Reading Group, July 25, 2017.
